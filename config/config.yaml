@@ -1,5 +1,5 @@
 # your domain
-domain: example.com   # or example.com:9443 for reserve proxy server
+domain: dlc99965.herokuapp.com   # or example.com:9443 for reserve proxy server
 port:                 # default 12580
 
 # source list file
